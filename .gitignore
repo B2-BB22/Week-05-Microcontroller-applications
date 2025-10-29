@@ -15,6 +15,7 @@
 *.bin
 *.map
 *.axf
+*.hex
 
 # Backup and temporary files
 *.bak
