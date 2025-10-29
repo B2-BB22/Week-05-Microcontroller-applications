@@ -1,0 +1,41 @@
+# Build output
+/build/
+/cache-test/build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.bin
+*.map
+*.axf
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.log
+
+# Python cache (ถ้าใช้ Python scripts)
+__pycache__/
+*.pyc
+
+# ESP-IDF specific
+sdkconfig.old
+sdkconfig.defaults
+cmake-build-*/
+
+# OS generated
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.pyc
+__pycache__/
